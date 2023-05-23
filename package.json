@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "dev": "npm run dev",
+    "start": "npm run start"
+  },
   "dependencies": {
     "json-server": "^0.17.3"
   }
